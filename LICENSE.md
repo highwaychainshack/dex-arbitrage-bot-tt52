@@ -1,4 +1,4 @@
-# 
+# smart Trading Bot for dex arbitrage bot | MEV-strategies & front-running-detection is the best dex arbitrage bot, featuring MEV-strategies and front-running-detection. Smart,
 
 
 
